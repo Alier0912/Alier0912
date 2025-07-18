@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm awal alier</h1>
-<h3 align="center">Reading between the data</h3>
+# 👋 Hi, I'm Awal Alier
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alier0912" alt="alier0912" /></a> </p>
+🎯 **Data Analyst | AI Developer | Tableau Expert**  
+🔍 Passionate about uncovering insights from data and building AI-powered systems.
 
-- 🌱 I’m currently learning **Data Analysis (SQL , Tableau , Python)**
+---
 
-- 📫 How to reach me **alierawal3@gmail.com**
+## 🚀 Tech Stack
+- **Languages:** Python, SQL, R
+- **Data Tools:** Excel, Power BI, Tableau, Google Looker Studio
+- **AI/ML:** OpenAI, HuggingFace, LangChain, Pandas, Scikit-learn
+- **Databases:** PostgreSQL, MySQL
+- **Workflow:** Git, VS Code, Power Query
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/awal alier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awal alier" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📊 Featured Projects
+- **📈 MTN Customer Churn Dashboard**  
+  [🔗 View on Tableau](https://public.tableau.com/app/profile/awalalier)
+- **🧠 AI-Powered Resume Matcher** (LangChain + OpenAI)
+- **🗂️ E-commerce Sales Data Analysis**  
+  [🔗 View Project](link-to-repo)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alier0912&show_icons=true&locale=en&layout=compact" alt="alier0912" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alier0912&show_icons=true&locale=en" alt="alier0912" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alier0912&" alt="alier0912" /></p>
+📫 **Let's Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/awalalier) | 📊 [Tableau Public](https://public.tableau.com/app/profile/awalalier) | 💻 [GitHub](https://github.com/Alier0912)
